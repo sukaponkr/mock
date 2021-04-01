@@ -1,0 +1,17 @@
+{
+  "EMP_CODE": "string",
+  "PERIOD_FROM": "datetime",
+  "PERIOD_TO": "datetime",
+  "PLACE_DESC": "string",
+  "LATITUDE": "int",
+  "LONGTITUDE": "int",
+  "GEOCODE": "int",
+  "PROVINCE": "string",
+  "DISTRICT": "string",
+  "SUBDISTRICT": "string",
+  "POSTCODE": "int",
+  "ELAVATION": "int",
+  "ROAD": "string",
+  "CREATED_DATE": "datetime",
+  "UPDATED_DATE": "datetime"
+ }
